@@ -1,1 +1,2 @@
 Version control is the practice of manging the code 
+Git is a local repository 
